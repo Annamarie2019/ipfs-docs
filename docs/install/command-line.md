@@ -172,4 +172,4 @@ Manually compiling IPFS is a fairly involved process that changes frequently. It
 
 ## Next steps
 
-Now that you've got an IPFS node installed, you can start building applications and services on top of the network! Check out the Command-line- quicks start guide and jump straight to the [Initialize the repository section](../how-to/command-line-quick-start.md#initialize-the-repository).
+Now that you've got an IPFS node installed, you can start building applications and services on top of the network! Jump straight to the [Initialize the repository section](../how-to/command-line-quick-start.md#initialize-the-repository) in the Command line quick start guide.
